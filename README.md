@@ -1,1 +1,2 @@
-# openssh_windows
+# openssh_windows   
+a script to install opensshd service into windows 2008r2/2016/2019...   
